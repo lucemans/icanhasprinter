@@ -1,0 +1,13 @@
+{
+  "name": "printer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^14.14.39",
+    "escpos": "^3.0.0-alpha.6",
+    "escpos-usb": "^3.0.0-alpha.4",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  }
+}
